@@ -40,11 +40,9 @@
 
 &#x20; </a>
 
-<a href="https://linkedin.com/in/midhun-nk">
-
-&#x20;   <img src="https://www.linkedin.com/in/balaji-g-b51434326?utm\_source=share\_via\&utm\_content=profile\&utm\_medium=member\_android<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>" />
-
-&#x20; </a>
+<a href="https://www.linkedin.com/in/balaji-g-b51434326">
+  LinkedIn Profile
+</a>
 
 </p>
 
