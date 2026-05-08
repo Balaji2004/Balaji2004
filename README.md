@@ -34,12 +34,6 @@
 
 &#x20;
 
-<a href="https://instagram.com/mike.devlogs">
-
-&#x20;   <img src="https://www.instagram.com/bala.\_.itz?utm\_source=qr\&igsh=Znc4YnlmeWt1YW5v" />
-
-&#x20; </a>
-
 <a href="https://www.linkedin.com/in/balaji-g-b51434326">
   LinkedIn Profile
 </a>
